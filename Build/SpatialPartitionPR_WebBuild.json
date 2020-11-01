@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GS_M06_DV01_SpatialPartition",
+"productVersion": "0.1",
+"dataUrl": "SpatialPartitionPR_WebBuild.data.unityweb",
+"wasmCodeUrl": "SpatialPartitionPR_WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "SpatialPartitionPR_WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
